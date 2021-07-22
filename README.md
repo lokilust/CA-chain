@@ -1,4 +1,4 @@
-# Autorité de certification SSL, autorité intermédiaire et certificats HTTPS
+# SSL Certificate Authority, Intermediate Authority, and HTTPS Certificates
 source : https://jamielinux.com/docs/openssl-certificate-authority/
 
 # Create the root pair
